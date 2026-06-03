@@ -21,7 +21,7 @@ spec:
       containers:
       - name: django
 
-        image: vivekthanth1/python1:latest
+        image: vivekthanth1/python1:9
         imagePullPolicy: Never
 
         ports:

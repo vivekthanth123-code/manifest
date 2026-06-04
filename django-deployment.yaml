@@ -21,7 +21,7 @@ spec:
       containers:
       - name: django
 
-        image: vivekthanth1/python1:13
+        image: vivekthanth1/python1:14
 
         ports:
         - containerPort: 8000
